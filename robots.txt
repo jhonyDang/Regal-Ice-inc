@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jhonydang.github.io/Regal-Ice-inc/sitemap.xml

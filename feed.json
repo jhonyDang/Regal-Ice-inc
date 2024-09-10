@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Regal ice",
+    "description": "",
+    "home_page_url": "https://jhonydang.github.io/Regal-Ice-inc",
+    "feed_url": "https://jhonydang.github.io/Regal-Ice-inc/feed.json",
+    "user_comment": "",
+    "icon": "https://jhonydang.github.io/Regal-Ice-inc/media/website/Screenshot-2024-09-03-085727.png",
+    "author": {
+        "name": "Jhonny Dang"
+    },
+    "items": [
+    ]
+}
